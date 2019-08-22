@@ -27,6 +27,9 @@
     <ClCompile Include="杨辉三角.cpp">
       <Filter>Step1.入门</Filter>
     </ClCompile>
+    <ClCompile Include="水仙花数.cpp">
+      <Filter>Step1.入门</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="head.h">
