@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="SKY数.cpp" />
     <ClCompile Include="分拆素数和.cpp" />
     <ClCompile Include="寻找素数对.cpp" />
     <ClCompile Include="成绩转换.cpp" />

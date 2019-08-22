@@ -45,6 +45,9 @@
     <ClCompile Include="破译密码.cpp">
       <Filter>Step1.入门</Filter>
     </ClCompile>
+    <ClCompile Include="SKY数.cpp">
+      <Filter>Step1.入门</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="head.h">
