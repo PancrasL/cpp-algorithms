@@ -117,6 +117,7 @@
   <ItemGroup>
     <ClCompile Include="分拆素数和.cpp" />
     <ClCompile Include="寻找素数对.cpp" />
+    <ClCompile Include="成绩转换.cpp" />
     <ClCompile Include="杨辉三角.cpp" />
     <ClCompile Include="水仙花数.cpp" />
   </ItemGroup>

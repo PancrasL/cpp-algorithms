@@ -30,6 +30,9 @@
     <ClCompile Include="水仙花数.cpp">
       <Filter>Step1.入门</Filter>
     </ClCompile>
+    <ClCompile Include="成绩转换.cpp">
+      <Filter>Step1.入门</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="head.h">
