@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="分拆素数和.cpp" />
+    <ClCompile Include="寻找素数对.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="head.h" />

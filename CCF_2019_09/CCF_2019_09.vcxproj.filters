@@ -21,6 +21,9 @@
     <ClCompile Include="分拆素数和.cpp">
       <Filter>Step1.入门</Filter>
     </ClCompile>
+    <ClCompile Include="寻找素数对.cpp">
+      <Filter>Step1.入门</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="head.h">
