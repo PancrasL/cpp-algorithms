@@ -41,6 +41,7 @@
         "xtree": "cpp",
         "xutility": "cpp",
         "stack": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "set": "cpp"
     }
 }
