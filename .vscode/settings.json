@@ -43,6 +43,7 @@
         "stack": "cpp",
         "deque": "cpp",
         "set": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "sstream": "cpp"
     }
 }
