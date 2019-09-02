@@ -11,10 +11,24 @@ void getDaysSum()
 }
 bool leapYear(int year)
 {
+    if (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0)) {
+        return true;
+    }
+    return false;
+}
+
+int getAns(int year, int month, int day){
+    int total = daysSum[month-1]+day;
+    if(leapYear(year)&&month>2){
+        total++;
+    }
+    return total;
+
 }
 int main(void)
 {
     int year, month, day;
     while (scanf("%d/%d/%d", &year, &month, &day) != EOF) {
+        cout<<getAns(year, month, day)<<endl;
     }
 }
