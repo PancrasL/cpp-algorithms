@@ -16,9 +16,6 @@ struct ArcNode {
 };
 bool operator<(const ArcNode& n1, const ArcNode& n2)
 {
-    if (n1.len == n2.len)
-        return n1.cost > n2.cost;
-    else
         return n1.len > n2.len;
 }
 void dijkstra(vector<vector<ArcNode> >& G, vector<int>& cost, vector<int>& len, int start, int terminate)
@@ -46,10 +43,11 @@ void dijkstra(vector<vector<ArcNode> >& G, vector<int>& cost, vector<int>& len, 
                     if (newLen < len[adjv]) { //有更短的路径，更新len和cost
                         cost[adjv] = newCost;
                         len[adjv] = newLen;
+                        q.push(ArcNode(adjv, len[adjv], cost[adjv]));
                     } else if ((newLen == len[adjv]) && (newCost < cost[adjv])) { //路径一样长，选择cost小的那一条
                         cost[adjv] = newCost;
                     }
-                    q.push(ArcNode(adjv, len[adjv], cost[adjv]));
+                    
                 }
             }
         }
