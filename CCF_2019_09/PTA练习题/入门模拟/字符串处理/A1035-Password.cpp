@@ -1,3 +1,4 @@
+//注意输出格式，尤其是There is 1...和There are N...
 #include <iostream>
 #include <map>
 #include <stdio.h>

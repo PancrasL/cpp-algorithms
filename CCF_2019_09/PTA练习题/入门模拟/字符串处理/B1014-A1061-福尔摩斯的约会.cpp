@@ -1,3 +1,4 @@
+//注意题目，根据题意扫描一遍字符寻找符合条件的字符即可
 #include <algorithm>
 #include <ctype.h>
 #include <iostream>

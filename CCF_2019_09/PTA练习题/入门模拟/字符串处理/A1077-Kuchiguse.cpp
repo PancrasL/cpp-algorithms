@@ -1,3 +1,4 @@
+//寻找公共后缀，两两比较
 #include <iostream>
 #include <string>
 #include <vector>

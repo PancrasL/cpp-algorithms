@@ -1,4 +1,4 @@
-//当B的长度小于A时需要补0
+//当B的长度小于A时需要补0进行运算
 #include <iostream>
 #include <string>
 using namespace std;

@@ -1,3 +1,4 @@
+//正序读入，倒序输出
 #include <iostream>
 #include <string>
 #include <vector>

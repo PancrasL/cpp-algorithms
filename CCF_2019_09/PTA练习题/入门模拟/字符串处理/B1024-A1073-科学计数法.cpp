@@ -1,3 +1,4 @@
+//整数部分、小数部分、指数部分分别处理
 #include <iostream>
 #include <string>
 using namespace std;
