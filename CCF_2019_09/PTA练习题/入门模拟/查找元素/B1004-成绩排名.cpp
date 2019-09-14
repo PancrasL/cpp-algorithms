@@ -1,3 +1,4 @@
+//使用结构体保存信息，便读取边寻找最大最小值
 #include <iostream>
 #include <limits.h>
 #include <string>

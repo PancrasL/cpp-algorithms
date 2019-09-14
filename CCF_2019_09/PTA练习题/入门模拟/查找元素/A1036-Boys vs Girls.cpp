@@ -1,3 +1,4 @@
+//注意Absent和NA的输出
 #include <algorithm>
 #include <iostream>
 #include <string>

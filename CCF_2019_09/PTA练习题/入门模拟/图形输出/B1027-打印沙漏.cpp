@@ -1,3 +1,4 @@
+//找规律，注意字符右侧不要输出多余的空格
 #include <iostream>
 #include <stdio.h>
 using namespace std;

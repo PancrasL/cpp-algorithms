@@ -1,3 +1,4 @@
+//找规律输出
 #include <iostream>
 #include <string>
 using namespace std;

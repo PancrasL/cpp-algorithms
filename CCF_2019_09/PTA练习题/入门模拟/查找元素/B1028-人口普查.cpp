@@ -1,3 +1,4 @@
+//日期比较，注意合法日期包含头尾的边界
 #include <algorithm>
 #include <iostream>
 #include <stdio.h>

@@ -1,3 +1,4 @@
+//注意输出的字符
 #include <iostream>
 using namespace std;
 int main(void)

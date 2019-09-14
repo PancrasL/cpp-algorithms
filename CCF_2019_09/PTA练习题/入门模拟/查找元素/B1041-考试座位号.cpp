@@ -1,6 +1,7 @@
 #include <algorithm>
 #include <iostream>
 #include <string>
+//使用结构体保存信息，然后直接查找
 #include <vector>
 using namespace std;
 struct node {
