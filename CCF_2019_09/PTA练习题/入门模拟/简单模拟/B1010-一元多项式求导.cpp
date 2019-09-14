@@ -1,3 +1,5 @@
+//零此项的求导为0
+//若求导之后没有任何非0项，输出0 0
 #include <iostream>
 #include <vector>
 using namespace std;

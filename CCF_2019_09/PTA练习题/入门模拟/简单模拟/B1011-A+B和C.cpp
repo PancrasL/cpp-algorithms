@@ -1,3 +1,4 @@
+//注意使用long long类型避免溢出
 #include <iostream>
 #include <stdio.h>
 using namespace std;

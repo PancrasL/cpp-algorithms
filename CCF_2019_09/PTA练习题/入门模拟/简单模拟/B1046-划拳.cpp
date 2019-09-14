@@ -1,3 +1,4 @@
+//注意平局的判断
 #include <iostream>
 using namespace std;
 int main(void)

@@ -1,3 +1,4 @@
+//两次翻转，reverse()
 #include<algorithm>
 #include<vector>
 #include<stdio.h>

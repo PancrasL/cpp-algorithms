@@ -1,3 +1,4 @@
+//时分秒数字不足两位时记得补0
 #include <iostream>
 #include <stdio.h>
 #include <math.h>

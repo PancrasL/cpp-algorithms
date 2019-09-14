@@ -1,3 +1,4 @@
+//洗牌模拟，注意初始化牌时的花色和编号的对应关系
 #include <algorithm>
 #include <iostream>
 #include <string>

@@ -1,3 +1,4 @@
+//注意胜负平的判断
 #include <iostream>
 #include <vector>
 using namespace std;

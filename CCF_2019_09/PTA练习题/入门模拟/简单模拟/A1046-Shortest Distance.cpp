@@ -1,3 +1,4 @@
+//计算出总长度L，顺时针长度len1，输出len1和L - len1中较小的
 #include <algorithm>
 #include <iostream>
 using namespace std;

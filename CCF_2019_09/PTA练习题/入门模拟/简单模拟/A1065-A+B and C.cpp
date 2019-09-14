@@ -1,3 +1,4 @@
+//使用long double运算，double精度不够
 #include <iostream>
 using namespace std;
 int main(void)

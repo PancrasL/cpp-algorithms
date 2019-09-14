@@ -1,3 +1,4 @@
+//直接模拟，注意使用long long类型避免溢出
 #include <iostream>
 #include <string>
 using namespace std;

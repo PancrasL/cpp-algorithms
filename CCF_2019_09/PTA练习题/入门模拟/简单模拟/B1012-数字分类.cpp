@@ -1,3 +1,4 @@
+//依次判断、依次统计
 #include <algorithm>
 #include <iostream>
 #include <stdio.h>
