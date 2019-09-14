@@ -1,3 +1,4 @@
+//注意负数的处理
 #include <iostream>
 #include <stdio.h>
 using namespace std;

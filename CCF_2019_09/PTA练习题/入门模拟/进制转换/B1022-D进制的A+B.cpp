@@ -1,3 +1,4 @@
+//注意0的输出
 #include <iostream>
 #include <stack>
 using namespace std;

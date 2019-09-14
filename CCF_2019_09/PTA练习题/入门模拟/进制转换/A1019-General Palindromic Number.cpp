@@ -1,3 +1,4 @@
+//回文数的判断：转换为字符串，反转后进行比较
 #include <iostream>
 #include <vector>
 using namespace std;

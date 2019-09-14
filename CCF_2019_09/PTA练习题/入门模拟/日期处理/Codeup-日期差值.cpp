@@ -1,3 +1,4 @@
+//计算相对于元日期的天数，然后两个天数相减，注意日期的相对大小。
 #include <iostream>
 #include <string>
 using namespace std;

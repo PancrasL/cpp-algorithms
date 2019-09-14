@@ -1,3 +1,4 @@
+//注意格式，位数不足时要补零
 #include <iostream>
 #include <string>
 using namespace std;
